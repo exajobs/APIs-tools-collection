@@ -5,7 +5,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 
 [API](https://www.mulesoft.com/resources/api/what-is-an-api) is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API.
 
-![apis](https://github.com/veilair/APIs-tools-development/blob/main/apis-tools-management.png)
+![apis](https://github.com/exajobs/APIs-tools-collection/blob/main/APIs.png)
 
 ## Table of Contents
 *  [API Specification Languages](#api-specification-languages)
