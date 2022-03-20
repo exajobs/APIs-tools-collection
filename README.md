@@ -93,13 +93,13 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 
 [Back to top](#apis-development-tools)
 
-## API Specification Languages
+## `API Specification Languages`
 - [API Blueprint](https://github.com/apiaryio/api-blueprint)
 - [JSON Schema](http://json-schema.org/)
 - [RAML](https://raml.org/)
 - [OpenAPI (formerly known as Swagger)](https://github.com/OAI/OpenAPI-Specification)
 
-## API Specification Tools
+## `API Specification Tools`
 - [Swagger Inspector](https://swagger.io/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
 - [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
@@ -115,12 +115,12 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 - [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
 - [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
 
-## API Specifications
+## `API Specifications`
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
 
-## API Frameworks
+## `API Frameworks`
 
 ### Ruby
 - [rails-api](https://github.com/rails-api/rails-api): Rails for API only applications.
