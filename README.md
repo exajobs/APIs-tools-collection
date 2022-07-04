@@ -1129,10 +1129,10 @@ Pull requests are welcome. Please adhere to the [guidelines](https://github.com/
 [⬆ Back to Table of Contents](#table-of-contents)
 # License
 
-## References
+## `References`
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
 
-## License
+## `License`
 
 MIT License 
 
