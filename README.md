@@ -105,6 +105,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
 - [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
+- [NextJSON](https://nextjson.com/): Free online nested JSON parser, formatter and JSON toolbox.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 - [Restlet Studio](https://restlet.com/modules/studio/): Web IDE for API Design.
